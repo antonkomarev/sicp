@@ -67,4 +67,8 @@ li.L9 { background: #eee }
   .str {
     color: #cf82ce;
   }
+
+  .err {
+    color: #cf6d5c;
+  }
 }
