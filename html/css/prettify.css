@@ -63,4 +63,8 @@ li.L9 { background: #eee }
   .kwd {
     color: #74a1d4;
   }
+
+  .str {
+    color: #cf82ce;
+  }
 }
