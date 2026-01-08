@@ -54,3 +54,13 @@ li.L3,
 li.L5,
 li.L7,
 li.L9 { background: #eee }
+
+@media (prefers-color-scheme: dark) {
+  .pln {
+    color: #a9a9a9;
+  }
+
+  .kwd {
+    color: #74a1d4;
+  }
+}

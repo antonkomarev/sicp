@@ -490,3 +490,29 @@ a#References ~ p {
   bottom: 0; 
   padding: 0.4ex 0.0ex;
 }
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color: #d9d9d9;
+  }
+
+  body {
+    background-color: #202020;
+  }
+
+  nav.header p {
+    background-color: #262626;
+  }
+
+  .chapnum {
+    /*color: #2b7fff;*/
+  }
+
+  .secnum {
+    /*color: #2b7fff;*/
+  }
+
+  a[href] {
+    color: #eea4a0;
+  }
+}
