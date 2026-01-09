@@ -515,4 +515,8 @@ a#References ~ p {
   a[href] {
     color: #eea4a0;
   }
+
+  #footnote_popup {
+    background-color: #121212;
+  }
 }
